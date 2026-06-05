@@ -10,7 +10,7 @@
     </td>
     <td align="center" width="100">
       <br>
-      <img src="https://img.shields.io/badge/%C3%97-white?style=flat-square" alt="x" />
+      <img src="https://img.shields.io/badge/%C3%97-white?style=flat-square" alt="X" />
       <br>
       <img src="https://img.shields.io/badge/Collab-blue?style=flat-square" alt="Collab" />
     </td>
@@ -24,13 +24,13 @@
     <td align="center">
       <img src="https://img.shields.io/badge/%E2%96%BC-Core%20Platform-darkgreen?style=flat-square" alt="down" /><br><br>
       <img src="https://raw.githubusercontent.com/GG-CNG/.github/main/profile/gasra.png" alt="GASRA Platform" height="50" style="vertical-align: middle;" />
-      <p><small><b>GASRA</b> (Platform System)</small></p>
+      <p><small><b>GASRA</b><br>(Platform System)</small></p>
     </td>
     <td></td>
     <td align="center">
       <img src="https://img.shields.io/badge/%E2%96%BC-Execution%20Team-blue?style=flat-square" alt="down" /><br><br>
       <img src="https://raw.githubusercontent.com/GG-CNG/.github/main/profile/hmce.png" alt="HMCE" height="50" style="vertical-align: middle;" />
-      <p><small><b>Teknik Komputer 2023</b>(HMCE PENS)</small></p>
+      <p><small><b>Teknik Komputer 2023</b><br>(HMCE PENS)</small></p>
     </td>
   </tr>
 </table>
