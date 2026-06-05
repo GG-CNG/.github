@@ -1,12 +1,18 @@
 # 🏢 CGAS (GASRA PLATFORM)
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Partnership-PENS%20%C3%97%20PT%20CNG%20Tbk-blue?style=for-the-badge&logo=github" alt="Partnership">
+  <!-- Elemen logo lokal yang kamu sediakan di dalam folder profile -->
+  <img src="profile/cng.jpg" alt="Logo CNG" height="50" style="margin-right: 10px; vertical-align: middle;"/>
+  <img src="profile/hmce.png" alt="Logo HMCE" height="50" style="vertical-align: middle;"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Prodi-Teknik%20Komputer%20PENS-blue?style=for-the-badge" alt="Prodi">
   <img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge&logo=git" alt="Status">
   <img src="https://img.shields.io/badge/Environment-Secured-red?style=for-the-badge&logo=probot" alt="Security">
 </p>
 
-Selamat datang di GitHub resmi tim pengembang platform **GASRA**. Organisasi ini merupakan wadah kolaborasi strategis dalam **pengembangan ekosistem platform Web dan Android** sebagai pusat Sistem Informasi operasional di **PT Citra Nusantara Gemilang Tbk** yang bermitra dengan **Politeknik Elektronika Negeri Surabaya (PENS)**.
+Selamat datang di GitHub resmi tim pengembang platform **GASRA**. Organisasi ini merupakan wadah kolaborasi strategis dalam **pengembangan ekosistem platform Web dan Android** sebagai pusat Sistem Informasi operasional di **PT Citra Nusantara Gemilang Tbk** yang bermitra dengan program studi **Teknik Komputer, Politeknik Elektronika Negeri Surabaya (PENS)**.
 
 ---
 
@@ -45,5 +51,5 @@ Pengembangan platform berbasis web sebagai pusat pengelolaan informasi, manajeme
 
 <p align="center">
   <i>Membangun efisiensi melalui digitalisasi sistem informasi yang presisi.</i><br>
-  <b>PENS × PT CNG Tbk © 2026</b>
+  <b>Teknik Komputer PENS × PT CNG Tbk © 2026</b>
 </p>
