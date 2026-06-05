@@ -23,13 +23,13 @@ Lingkup teknologi yang digunakan dalam menyusun arsitektur sistem informasi teri
 
 ### 🔍 Pillars of Collaboration (Click to Expand)
 
-<details>
+<details open>
 <summary><b>📱 Mobile Solutions</b></summary>
 <br>
 Pengembangan platform berbasis mobile Android guna mendukung mobilitas dan efisiensi entri data di lingkungan kerja.
 </details>
 
-<details>
+<details open>
 <summary><b>💻 Web Architecture</b></summary>
 <br>
 Pengembangan platform berbasis web sebagai pusat pengelolaan informasi, manajemen data, serta integrasi sistem yang terpusat.
