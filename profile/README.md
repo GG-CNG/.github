@@ -1,9 +1,8 @@
 # 🏢 CGAS (GASRA PLATFORM)
 
 <p align="left">
-  <!-- Elemen logo lokal yang kamu sediakan di dalam folder profile -->
-  <img src="profile/cng.jpg" alt="Logo CNG" height="50" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="profile/hmce.png" alt="Logo HMCE" height="50" style="vertical-align: middle;"/>
+  <img src=".github/profile/cng.jpg" alt="Logo CNG" height="50" style="margin-right: 10px; vertical-align: middle;"/>
+  <img src=".github/profile/hmce.png" alt="Logo HMCE" height="50" style="vertical-align: middle;"/>
 </p>
 
 <p align="left">
