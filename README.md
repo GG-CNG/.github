@@ -21,7 +21,7 @@ Lingkup teknologi yang digunakan dalam menyusun arsitektur sistem informasi teri
 
 ---
 
-### 🔍 Pillars of Collaboration (Click to Expand)
+### 🔍 Pillars of Collaboration
 
 <details open>
 <summary><b>📱 Mobile Solutions</b></summary>
