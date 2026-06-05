@@ -1,12 +1,14 @@
 # 🏢 CGAS (GASRA PLATFORM)
 
 <p align="left">
-  <img src="profile/cng.jpg" alt="Logo CNG" height="50" style="margin-right: 10px; vertical-align: middle;"/>
-  <img src="profile/hmce.png" alt="Logo HMCE" height="50" style="vertical-align: middle;"/>
+  <!-- Menggunakan URL absolut langsung ke file di repositori agar pasti muncul -->
+  <img src="https://raw.githubusercontent.com/GG-CNG/.github/main/profile/cng.jpg" alt="Logo CNG" height="50" style="margin-right: 10px; vertical-align: middle;"/>
+  <img src="https://raw.githubusercontent.com/GG-CNG/.github/main/profile/hmce.png" alt="Logo HMCE" height="50" style="vertical-align: middle;"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Prodi-Teknik%20Komputer%20PENS-blue?style=for-the-badge" alt="Prodi">
+  <img src="https://img.shields.io/badge/Partnership-PENS%20%C3%97%20PT%20CNG%20Tbk-blue?style=for-the-badge&logo=github" alt="Partnership">
+  <img src="https://img.shields.io/badge/Prodi-Teknik%20Komputer-blue?style=for-the-badge" alt="Prodi">
   <img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge&logo=git" alt="Status">
   <img src="https://img.shields.io/badge/Environment-Secured-red?style=for-the-badge&logo=probot" alt="Security">
 </p>
