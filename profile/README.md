@@ -1,4 +1,4 @@
-# 🏢 GG-CNG (GASRA PLATFORM PENS)
+# 🏢 CGAS (GASRA PLATFORM)
 
 <p align="left">
   <img src="https://img.shields.io/badge/Partnership-PENS%20%C3%97%20PT%20CNG%20Tbk-blue?style=for-the-badge&logo=github" alt="Partnership">
